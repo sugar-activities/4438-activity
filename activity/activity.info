@@ -1,0 +1,11 @@
+
+[Activity]
+name = Buscar actividades
+bundle_id = org.laptop.pippy.Buscaractividades
+service_name = org.laptop.pippy.Buscaractividades
+class = activity.VteActivity
+icon = activity-icon
+activity_version = 1
+mime_types = 
+show_launcher = yes
+
